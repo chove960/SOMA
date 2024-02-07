@@ -1,0 +1,3 @@
+[submodule "soma_front"]
+	path = soma_front
+	url = git@github.com:chove960/SOMA.git
